@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhanukkrishna
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently pursing Bachelor's Degree in the Mechanical Engineering
-- 💞️ I’m looking to collaborate on anyone with whome, we can grow together 
+- 💞️ I’m looking to collaborate with anyone with whome, I can grow together 
 - 📫 How to reach me is simple, mail me : dhanukkrishna0987@gmail.com
 
 <!---
