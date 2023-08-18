@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhanukkrishna
+<h1>- 👋 Hi, I’m @dhanukkrishna</h1>
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently pursing Bachelor's Degree in the Mechanical Engineering
 - 💞️ I’m looking to collaborate with anyone with whome, I can grow together 
