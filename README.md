@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Robot Animation</title>
-  <style>
-    /* Define styles for the robot */
-    .robot {
-      width: 100px;
-      height: 150px;
-      background-color: silver;
-      position: relative;
-      animation: moveRobot 3s infinite alternate; /* This creates the animation */
-    }
 
-    /* Define keyframes for the animation */
-    @keyframes moveRobot {
-      0% {
-        transform: translateX(0);
-      }
-      100% {
-        transform: translateX(200px);
-      }
-    }
-  </style>
-</head>
-<body>
-  <!-- The robot element -->
-  <div class="robot"></div>
-</body>
-</html>
 
 
 -<h1> 👋 Hi, I’m @dhanukkrishna</h1>
