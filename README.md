@@ -1,6 +1,3 @@
-
-
-
 -<h1> 👋 Hi, I’m @dhanukkrishna</h1>
 - 👀 I’m interested in machine learning<br>
 - 🌱 I’m currently pursing Bachelor's Degree in the Mechanical Engineering<br>
