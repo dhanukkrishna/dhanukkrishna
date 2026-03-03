@@ -6,7 +6,7 @@ I mostly tinker with mechanical design, analysis, and ai.
 
 When not in the workshop or in front of Solidworks, Google Collab, you’ll probably find me gazing at stars, dreaming of interplanetary exploration and humanity’s future in space.  
 
-　🤖 　⚙️　· 🛠 🌍°°　　 ⚙️　•🛸　 🛠　　 　　 🌙*　　　★ ⚙️•　°　　 　 *°　 　° 　 🪐 ✯°　 　　 . .🚀 ° 🌎　　　　·• . * 🛰️ *
+　🤖      　⚙️   　🛠    🌍 　 ⚙️　  🛸　    🛠　　 🌙　　　★     ⚙️     🪐    ✯ 　  🚀      🌎　　 🛰️  
 
 <!---
 dhanukkrishna/dhanukkrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
